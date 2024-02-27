@@ -1,0 +1,32 @@
+/*el * afecta a todo el documento*/
+*{
+    font-family: Tahoma;
+    margin: 25px;
+}
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    border: 10px;
+    border-style: dashed;
+    border-color: yellow;
+    padding: 15px;
+    color:crimson;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+p{
+    border-radius: 25px;
+    border-style: solid;
+    padding: 10px;
+    color: indigo;
+    text-align: justify;
+}
+
+img{
+    width: 45%;
+    height: 300px;
+}
